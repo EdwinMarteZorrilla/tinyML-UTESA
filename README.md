@@ -14,7 +14,7 @@
 1. [Arduino IDE (1.8.19 o 2.0 RC)](https://www.arduino.cc/en/software)
 2. Librerías (versiones más recientes):
     - Arduino Mbed OS Nano Boards (en Board Manager buscar Mbed e instalar)
-    - Arduino Tensor flow Lite   (en library manager buscar haardvard)
+    - Arduino Tensor flow Lite   (en library manager buscar hardvard)
     - Harvard Tiny MIx  (en library manager buscar harvard)
     - Arduino_LSM9DS (en library manager buscar LSM9DS1)
 
