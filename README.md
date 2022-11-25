@@ -8,19 +8,21 @@
     - Harvard Tiny MIx
     - Arduino_LSM9DS
 
-**La configuración de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense se
+**Luego la Configuracion de una cuenta de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense que se
 puede dividir en cuatro pasos:**
 
-1. Instalación de Edge Impulse CLI
-  -Creación de una cuenta en Edge Impulse Studio
+**Edge Impulse CLI requiere tener insta;lado lo siguiente:**
+
+1. Python 3 (ver video)
+2. Node.js (v14 o superior)
+
+**Para EdgeImpulse
+
+1. [Creación de una cuenta en Edge Impulse Studio](https://www.edgeimpulse.com/)
+2. Instalación de Edge Impulse CLI 
 3. Instalación de Arduino CLI
 4. Actualización del firmware de la tarjeta
 
-
-**Edge Impulse CLI requiere de:**
-
-1. Python 3
-2. Node.js (v14 o superior)
 
 Ya con Python 3 y Node.js instalados, instalamos Edge Impulse CLI a través del
 Node.js command prompt con el siguiente comando:
