@@ -13,10 +13,10 @@
 **Para poder utilizar el kit, necesitamos instalar lo siguiente:**
 1. [Arduino IDE (1.8.19 o 2.0 RC)](https://www.arduino.cc/en/software)
 2. Librerías (versiones más recientes):
-    - Arduino Mbed OS Nano Boards
-    - Arduino Tensor flow Lite
-    - Harvard Tiny MIx
-    - Arduino_LSM9DS
+    - Arduino Mbed OS Nano Boards (en Board Manager buscar Mbed e instalar)
+    - Arduino Tensor flow Lite   (en library manager buscar haardvard)
+    - Harvard Tiny MIx  (en library manager buscar harvard)
+    - Arduino_LSM9DS (en library manager buscar LSM9DS1)
 
 **Luego la Configuracion de una cuenta de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense que se
 puede dividir en cuatro pasos:**
