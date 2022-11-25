@@ -1,5 +1,15 @@
 # TinyML-UTESA
 
+***Requerimientos:
+
+-Tener o crear una cuenta de Google
+-[Crear una cuenta de Google Colab](https://colab.research.google.com/)
+
+**Edge Impulse CLI requiere tener instalado lo siguiente:**
+
+1. Python 3 (ver video)
+2. Node.js (v14 o superior)
+
 **Para poder utilizar el kit, necesitamos instalar lo siguiente:**
 1. [Arduino IDE (1.8.19 o 2.0 RC)](https://www.arduino.cc/en/software)
 2. Librerías (versiones más recientes):
@@ -11,10 +21,7 @@
 **Luego la Configuracion de una cuenta de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense que se
 puede dividir en cuatro pasos:**
 
-**Edge Impulse CLI requiere tener insta;lado lo siguiente:**
 
-1. Python 3 (ver video)
-2. Node.js (v14 o superior)
 
 **Para EdgeImpulse
 
