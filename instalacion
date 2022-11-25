@@ -6,7 +6,7 @@ puede dividir en cuatro pasos:
 3. Instalación de Arduino CLI
 4. Actualización del firmware de la tarjeta
 
-Edge Impulse CLI requiere de:
+'''Edge Impulse CLI requiere de:
 
 1. Python 3
 2. Node.js (v14 o superior)
