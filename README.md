@@ -1,9 +1,9 @@
 # TinyML-UTESA
 
-***Requerimientos:
-
--Tener o crear una cuenta de Google
--[Crear una cuenta de Google Colab](https://colab.research.google.com/)
+**Requerimientos:
+ 
+- Tener o crear una cuenta de Google
+- [Crear una cuenta de Google Colab](https://colab.research.google.com/)
 
 **Edge Impulse CLI requiere tener instalado lo siguiente:**
 
