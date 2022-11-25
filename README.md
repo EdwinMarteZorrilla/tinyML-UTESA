@@ -1,4 +1,4 @@
-# tinyML-UTESA
+# TinyML-UTESA
 
 **Para poder utilizar el kit, necesitamos instalar lo siguiente:**
 1. [Arduino IDE (1.8.19 o 2.0 RC)](https://www.arduino.cc/en/software)
