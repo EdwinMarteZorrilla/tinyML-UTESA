@@ -1,6 +1,6 @@
 # TinyML-UTESA
 
-**Requerimientos:
+**Requerimientos:**
  
 - Tener o crear una cuenta de Google
 - [Crear una cuenta de Google Colab](https://colab.research.google.com/)
@@ -19,11 +19,11 @@
     - Arduino_LSM9DS
 
 **Luego la Configuracion de una cuenta de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense que se
-puede dividir en cuatro pasos:
+puede dividir en cuatro pasos:**
 
 
 
-**Para EdgeImpulse
+**Para EdgeImpulse**
 
 1. [Creación de una cuenta en Edge Impulse Studio](https://www.edgeimpulse.com/)
 2. Instalación de Edge Impulse CLI 
