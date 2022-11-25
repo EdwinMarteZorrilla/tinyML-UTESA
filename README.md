@@ -1,6 +1,6 @@
 # tinyML-UTESA
 
-##**La configuración de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense se
+**La configuración de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense se
 puede dividir en cuatro pasos:**
 
 1. Instalación de Edge Impulse CLI
