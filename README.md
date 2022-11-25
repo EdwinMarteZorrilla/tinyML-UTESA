@@ -19,7 +19,7 @@
     - Arduino_LSM9DS
 
 **Luego la Configuracion de una cuenta de Edge Impulse con la tarjeta Arduino Nano 33 BLE Sense que se
-puede dividir en cuatro pasos:**
+puede dividir en cuatro pasos:
 
 
 
