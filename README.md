@@ -5,7 +5,7 @@
 + ["Video de Instalacion paso a paso (Ver despues del minuto 10)](https://www.youtube.com/watch?v=zXL2RrBrslI)
 
 # 2. Resources
-+[Recursos Academicos varios de Python y Machine Learning](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/Academic-Resources/README.md)
++ [Recursos Academicos varios de Python y Machine Learning](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/Academic-Resources/README.md)
 
 # 3. Machine Learning - Google Colab
 + [Introduccion a Scikit Learn - Iris Data](https://colab.research.google.com/drive/146Vg6jE2-9a2FnxLAMrsi_0tufzecmWx)
