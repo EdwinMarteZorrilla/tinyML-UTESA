@@ -21,3 +21,9 @@
 + [Dia 1. Primera Parte: ](https://ufl.zoom.us/rec/share/KdJvAQbpeKhhJaiwJGWAtbkl8TTwJ0rAOKaTNDnecGh-J1dhHnGWtrWeB2n9Q_gf.kx-Cmmd4Ovim-gEe?startTime=1669669815000)
 + [Dia 1. Segunda Parte: ](https://ufl.zoom.us/rec/share/KdJvAQbpeKhhJaiwJGWAtbkl8TTwJ0rAOKaTNDnecGh-J1dhHnGWtrWeB2n9Q_gf.kx-Cmmd4Ovim-gEe?startTime=1669674743000)
 
+# 5. Algunos Casos de Estudio
++ [Tiny ML in Space](https://www.youtube.com/watch?v=WcjOXgQbJkU)
++ ["Mask / No Mask"](https://www.youtube.com/watch?v=zbZuXWQ7fzY)
++ ["Detección de Movimiento Animal](https://www.youtube.com/watch?v=X8bxtJnGsEE)
++ [ClasificaciónMovimientoTINYML](https://www.youtube.com/watch?v=rTcwxhD6fbA)
+
