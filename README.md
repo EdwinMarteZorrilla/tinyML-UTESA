@@ -18,6 +18,6 @@
 |  ![Iris Setosa](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/330px-Kosaciec_szczecinkowaty_Iris_setosa.jpg)  | ![Iris Versicolor](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/330px-Iris_versicolor_3.jpg)  | ![Iris Virginica](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/330px-Iris_virginica.jpg)  | 
 
 # 4. Grabaciones de Zoom
-+ [Dia 1. Primera Parte: ](https)://ufl.zoom.us/rec/share/KdJvAQbpeKhhJaiwJGWAtbkl8TTwJ0rAOKaTNDnecGh-J1dhHnGWtrWeB2n9Q_gf.kx-Cmmd4Ovim-gEe?startTime=1669669815000)
++ [Dia 1. Primera Parte: ](https://ufl.zoom.us/rec/share/KdJvAQbpeKhhJaiwJGWAtbkl8TTwJ0rAOKaTNDnecGh-J1dhHnGWtrWeB2n9Q_gf.kx-Cmmd4Ovim-gEe?startTime=1669669815000)
 + [Dia 1. Segunda Parte: ](https://ufl.zoom.us/rec/share/KdJvAQbpeKhhJaiwJGWAtbkl8TTwJ0rAOKaTNDnecGh-J1dhHnGWtrWeB2n9Q_gf.kx-Cmmd4Ovim-gEe?startTime=1669674743000)
 
