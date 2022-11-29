@@ -26,7 +26,6 @@
 + ["Mask / No Mask"](https://www.youtube.com/watch?v=zbZuXWQ7fzY)
 + ["Detección de Movimiento Animal](https://www.youtube.com/watch?v=X8bxtJnGsEE)
 + [ClasificaciónMovimientoTINYML](https://www.youtube.com/watch?v=rTcwxhD6fbA)
-
- ![Sonido de la Temperatura del Agua](https://hackster.imgix.net/uploads/attachments/1326984/image_kTerCrOFU2.png?auto=compress%2Cformat&w=740&h=555&fit=max)|https://www.hackster.io/mjrobot/listening-temperature-with-tinyml-7e1325
++ [Proyecto Sonido de la Temperatura del Agua](https://www.hackster.io/mjrobot/listening-temperature-with-tinyml-7e1325)
 
 
