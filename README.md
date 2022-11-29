@@ -7,7 +7,7 @@
 # 2. Resources
 + [Recursos Academicos varios de Python y Machine Learning](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/Academic-Resources/README.md)
 + [Tutorial de Python - Parte I (abrir en Google Colab)](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/week1.ipynb)
-+ [Tutorial de Python - Parte I (abrir en Google Colab)](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/week2.ipynb)
++ [Tutorial de Python - Parte II (abrir en Google Colab)](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/week2.ipynb)
 
 # 3. Machine Learning - Google Colab
 + [Introduccion a Scikit Learn - Iris Data](https://colab.research.google.com/drive/146Vg6jE2-9a2FnxLAMrsi_0tufzecmWx)
