@@ -28,4 +28,9 @@
 + [ClasificaciónMovimientoTINYML](https://www.youtube.com/watch?v=rTcwxhD6fbA)
 + [Proyecto Sonido de la Temperatura del Agua](https://www.hackster.io/mjrobot/listening-temperature-with-tinyml-7e1325)
 
+# 6. Presentaciones
++ [Dia 1](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/1.0%20Intro.pptm)
++ [Dia 2](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/2.0%20Aplicaciones%20TinyML.pptm)
++ [Conferencia](https://github.com/EdwinMarteZorrilla/tinyML-UTESA/blob/main/Conferencia.pptm)
+
 
